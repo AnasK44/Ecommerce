@@ -1,6 +1,6 @@
 
 
-const ax = () =>{ 
+const ax = (props) =>{ 
     return "xd" ;
 
 }
